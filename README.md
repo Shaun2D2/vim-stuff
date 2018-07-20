@@ -7,3 +7,6 @@
 
 ### remap leader key
 `let mapleader = ","`
+
+Good Articles
+- https://medium.com/@crashybang/supercharge-vim-with-fzf-and-ripgrep-d4661fc853d2
