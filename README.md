@@ -1,7 +1,9 @@
 # vim-stuff
 
-### setup stuff:
-- https://github.com/ggreer/the_silver_searcher (for search)
+### Fuzzy Finder:
+- https://github.com/junegunn/fzf (the fuzzy finder)
+- https://github.com/junegunn/fzf.vim (goodies for vim)
+- https://github.com/ggreer/the_silver_searcher (better search, respect .gitignore)
 
 ### remap leader key
 `let mapleader = ","`
