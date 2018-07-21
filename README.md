@@ -7,7 +7,7 @@
 
 #### Pipe search through AG (silver searcher)
 include the below in your .bash_profile
-`xport FZF_DEFAULT_COMMAND='ag -l --hidden'`
+`export FZF_DEFAULT_COMMAND='ag -l --hidden'`
 
 ### remap leader key
 `let mapleader = ","`
